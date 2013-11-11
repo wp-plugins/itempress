@@ -18,28 +18,6 @@ This is currently an alpha product and, if you are interested, you can help me o
 
 ItemPress is being developed primarily at http://bitbucket.org/aubreypwd/itempress
 
-==Credits & Thanks==
-
-Tracy Rotton, TatumCreative, MRW Web Design, TC Custom Taxonomy Filter
-
-http://www.taupecat.com/
-
-http://wordpress.org/plugins/tc-custom-taxonomy-filter/
-
-Helped give us the filtering functionality we needed to dig into items.
-
-**Sameer Humagain, Simple Custom Post Order**
-
-http://hsameer.com.np/
-
-http://wordpress.org/plugins/simple-custom-post-order/
-
-Code from Sameer's plugin helped us make it so you can change the order or items in the WordPress Dashboard.
-
-**diddledan at #wordpress**
-
-Helped solve an issue to help make sure that archive pages sorted posts by menu_order.
-
 == Frequently Asked Questions ==
 
 **What Can I do with ItemPress**
@@ -71,7 +49,7 @@ I felt I only needed a few things to do what I do on so many different platforms
 
 WordPress gives you all this and more! So, I created a way to add content easily the WordPress way that wouldn't get in the way of posts or pages.
 
-*= Installation ==
+== Installation ==
 
 Best way to install is using your WordPress Dashboard, just search for ItemPress!
 
@@ -87,46 +65,34 @@ Best way to install is using your WordPress Dashboard, just search for ItemPress
 
 Reworked code to be more clean.
 
-Made it so plugins can add more taxonomy to items using:
-
-{{{
-function another_tax(){
-	global $itempress_tax;
-	$itempress_tax->add_tax([
-			'taxonomy'=>'another',
-			'args'=>[
-				'label' =>'Another',
-				'rewrite' => [ 
-					'slug' => 'items-another' 
-				],
-				'capabilities' => [
-					'assign_terms' => 'edit_posts',
-					'edit_terms' => 'edit_posts'
-				],
-				'show_in_nav_menus'=>true,
-				'hierarchical'=>true,
-				'show_admin_column'=>true,
-				'Another'=>[
-					'name' => 'Another',
-					'singular_name' => 'Another', 'taxonomy singular name',
-					'search_items' => 'Search Another',
-					'all_items' => 'All Another',
-					'parent_item' => 'Parent Another',
-					'parent_item_colon' => 'Parent Another:',
-					'edit_item' => 'Edit Another',
-					'update_item' => 'Update Another',
-					'add_new_item' => 'Add New Another',
-					'new_item_name' => 'New Another',
-					'menu_name' => 'Another',
-					'meta_name' => 'Another'
-				]
-			]	
-	]);
-}
-
-add_action('itempress_add_tax','another_tax');
-}}}
+Made it so plugins can add more taxonomy to items (https://bitbucket.org/aubreypwd/itempress/wiki/Additional%20Taxonomies).
 
 = 0.1 =
 
 Alpha product intended for dogfooding the product initially and gaining feedback. 1.0 will be a more stable version of the product.
+
+==Credits & Thanks==
+
+Tracy Rotton, TatumCreative, MRW Web Design, TC Custom Taxonomy Filter
+
+http://www.taupecat.com/
+
+http://wordpress.org/plugins/tc-custom-taxonomy-filter/
+
+Helped give us the filtering functionality we needed to dig into items.
+
+=Sameer Humagain, Simple Custom Post Order=
+
+http://hsameer.com.np/
+
+http://wordpress.org/plugins/simple-custom-post-order/
+
+Code from Sameer's plugin helped us make it so you can change the order or items in the WordPress Dashboard.
+
+=diddledan at #wordpress=
+
+Helped solve an issue to help make sure that archive pages sorted posts by menu_order.
+
+==Developing Additional Taxonomies==
+
+If you would like to add additional taxonomies to Items, you can learn to do so here: https://bitbucket.org/aubreypwd/itempress/wiki/Additional%20Taxonomies
