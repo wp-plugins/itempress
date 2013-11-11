@@ -73,23 +73,19 @@ Alpha product intended for dogfooding the product initially and gaining feedback
 
 ==Credits & Thanks==
 
-Tracy Rotton, TatumCreative, MRW Web Design, TC Custom Taxonomy Filter
+**Tracy Rotton, TatumCreative, MRW Web Design, TC Custom Taxonomy Filter**
 
-http://www.taupecat.com/
-
-http://wordpress.org/plugins/tc-custom-taxonomy-filter/
+http://www.taupecat.com/ | http://wordpress.org/plugins/tc-custom-taxonomy-filter/
 
 Helped give us the filtering functionality we needed to dig into items.
 
-=Sameer Humagain, Simple Custom Post Order=
+**Sameer Humagain, Simple Custom Post Order**
 
-http://hsameer.com.np/
-
-http://wordpress.org/plugins/simple-custom-post-order/
+http://hsameer.com.np/ | http://wordpress.org/plugins/simple-custom-post-order/
 
 Code from Sameer's plugin helped us make it so you can change the order or items in the WordPress Dashboard.
 
-=diddledan at #wordpress=
+**diddledan at #wordpress**
 
 Helped solve an issue to help make sure that archive pages sorted posts by menu_order.
 
