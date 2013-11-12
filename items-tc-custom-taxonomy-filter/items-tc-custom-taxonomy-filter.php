@@ -1,9 +1,8 @@
 <?php
 /*
-TC Custom Taxonomy Filter
+TC Custom Taxonomy Filter (Modified)
 Filter your posts (including custom post types) by your custom taxonomies, just like you can with WordPress' native category filter.
 Tracy Rotton, TatumCreative, MRW Web Design
-1.3.1
 http://www.taupecat.com/
 License: GPLv2
 */
@@ -71,7 +70,8 @@ function items_tc_ctf_convert_taxonomy_id_to_slug( $query ) {
         foreach ( $tax_queries as $tax_query ) {
             $term = get_term_by( 'id', $tax_query['terms'][0], $tax_query['taxonomy'] );
             $slug = $term ? $term->slug : '';
-            $query_vars[$tax_query['taxonomy']] = $slug;
+            if($slug)
+            	$query_vars[$tax_query['taxonomy']] = $slug;
         }
     }
 }

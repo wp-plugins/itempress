@@ -4,7 +4,7 @@ Donate link: http://aubreypwd.com/donate/
 Tags: projects, project, management, notes, remembering, tasks, bugs, issue, tracker
 Requires at least: 3.7
 Tested up to: 3.7
-Stable tag: 0.2
+Stable tag: 0.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -60,6 +60,10 @@ Best way to install is using your WordPress Dashboard, just search for ItemPress
 3. Associations that sync with users
 
 == Changelog ==
+
+= 0.2.1 =
+
+- Fix to issue where selecting terms from WP Admin was not working
 
 = 0.2 =
 
