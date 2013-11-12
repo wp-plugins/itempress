@@ -14,7 +14,7 @@ ItemPress is simply a robust custom post type that works with your current theme
 
 ItemPress is simply a robust custom post type that works with your current theme and is aimed to help you create posts with the freedom of ambiguity and without infiltrating posts or pages. It has the power to create and organize lists, manage projects, or take notes all with the usual power of WordPress!
 
-This is currently an alpha product and, if you are interested, you can help me out by installing and using the product, then visiting my ItemPress collection at http://aubreypwd.com/items-labeled/itempress/ and giving feedback!
+This is currently an alpha product and, if you are interested, you can help me out by installing and using the product, then visiting my ItemPress collection at http://aubreypwd.com/item-project/itempress-2/ and giving feedback!
 
 ItemPress is being developed primarily at http://bitbucket.org/aubreypwd/itempress
 
