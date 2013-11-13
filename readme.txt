@@ -14,7 +14,7 @@ ItemPress is a robust custom post type that will allow you to create new content
 
 ItemPress's custom post type stays out of the way of your blog posts and pages and allows you to create content of any kind, organized many different ways.
 
-This is currently a beta product and, if you are interested, you can help me out by installing and using the product, then visiting http://wordpress.org/support/plugin/itempress and giving feedback (use the feedback tag)! You can also visit *#itempress* on IRC.
+This is currently a beta product and, if you are interested, you can help me out by installing and using the product, then visiting http://wordpress.org/support/plugin/itempress and giving feedback (Please use `itempress-feedback` tag)! You can also visit `#itempress` on IRC.
 
 == Frequently Asked Questions ==
 
