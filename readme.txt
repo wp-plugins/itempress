@@ -78,7 +78,13 @@ Please see the [Other Notes](http://wordpress.org/plugins/itempress/other_notes/
 
 == Development ==
 
-If you want to work on ItemPress, just `svn co http://plugins.svn.wordpress.org/itempress itempress-svn` and `ln -s itempress-svn/trunk itempress`.  
+If you want to work on ItemPress, just:
+
+`svn co http://plugins.svn.wordpress.org/itempress itempress-svn` 
+
+`ln -s itempress-svn/trunk itempress`.  
+
+...then start hacking.
 
 All tracking of new features, discussion, bugs, etc are all done tagging items in the [Support Tab](http://wordpress.org/support/plugin/itempress).
 
@@ -86,15 +92,17 @@ When adding new items, please keep these tags in mind:
 
 **Development Tags**
 
-[itempress-enhancements](http://wordpress.org/tags/itempress-enhancements): New Stuff
-[itempress-docs](http://wordpress.org/tags/itempress-docs): Documentation Stuff
-[itempress-bugs](http://wordpress.org/tags/itempress-bugs): Bugs
+- [itempress-enhancements](http://wordpress.org/tags/itempress-enhancements): New Stuff
+- [itempress-docs](http://wordpress.org/tags/itempress-docs): Documentation Stuff
+- [itempress-bugs](http://wordpress.org/tags/itempress-bugs): Bugs
 
 **Assignment Tags**
 
 Tasks, etc are assigned to developers using the following model:
 
-`itempress-<wordpress.org username>` for easy finding. If something has been assigned to you, please tag it (or it will be tagged) accordingly.
+`itempress-<wordpress.org username>` 
+
+If something has been assigned to you, please tag it (or it will be tagged) accordingly.
 
 **IRC**
 
