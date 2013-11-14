@@ -46,7 +46,9 @@ Best way to install is using your WordPress Dashboard, just search for ItemPress
 
 **Developers**
 
-If you want to work on ItemPress, just `svn co http://plugins.svn.wordpress.org/itempress itempress-svn` and `ln -s itempress-svn/trunk itempress`.  
+If you want to work on ItemPress, just `svn co http://plugins.svn.wordpress.org/itempress itempress-svn` and `ln -s itempress-svn/trunk itempress`. 
+
+Please see the [Other Notes](http://wordpress.org/plugins/itempress/other_notes/) section on how to get involved.
 
 == Screenshots ==
 
@@ -74,7 +76,31 @@ If you want to work on ItemPress, just `svn co http://plugins.svn.wordpress.org/
 
 - Alpha product intended for dogfooding the product initially and gaining feedback. 1.0 will be a more stable version of the product.
 
-==Credits & Thanks==
+== Development ==
+
+If you want to work on ItemPress, just `svn co http://plugins.svn.wordpress.org/itempress itempress-svn` and `ln -s itempress-svn/trunk itempress`.  
+
+All tracking of new features, discussion, bugs, etc are all done tagging items in the [Support Tab](http://wordpress.org/support/plugin/itempress).
+
+When adding new items, please keep these tags in mind:
+
+**Development Tags**
+
+[itempress-enhancements](http://wordpress.org/tags/itempress-enhancements): New Stuff
+[itempress-docs](http://wordpress.org/tags/itempress-docs): Documentation Stuff
+[itempress-bugs](http://wordpress.org/tags/itempress-bugs): Bugs
+
+**Assignment Tags**
+
+Tasks, etc are assigned to developers using the following model:
+
+`itempress-<wordpress.org username>` for easy finding. If something has been assigned to you, please tag it (or it will be tagged) accordingly.
+
+**IRC**
+
+`#itempress` is our official channel on freenode.
+
+== Credits & Thanks ==
 
 **Tracy Rotton, TatumCreative, MRW Web Design, TC Custom Taxonomy Filter**
 
