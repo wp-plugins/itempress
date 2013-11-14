@@ -80,11 +80,13 @@ Please see the [Other Notes](http://wordpress.org/plugins/itempress/other_notes/
 
 If you want to work on ItemPress, just:
 
+`cd wp-content/plugins`
+
 `svn co http://plugins.svn.wordpress.org/itempress itempress-svn` 
 
-`ln -s itempress-svn/trunk itempress`.  
+`ln -s itempress-svn/trunk itempress`
 
-...then start hacking.
+...activate, then start hacking! You can submit diff's using the [Support Tab](http://wordpress.org/support/plugin/itempress).
 
 All tracking of new features, discussion, bugs, etc are all done tagging items in the [Support Tab](http://wordpress.org/support/plugin/itempress).
 
