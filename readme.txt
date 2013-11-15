@@ -97,6 +97,8 @@ When adding new items, please keep these tags in mind:
 - [itempress-enhancements](http://wordpress.org/tags/itempress-enhancements): New Stuff
 - [itempress-docs](http://wordpress.org/tags/itempress-docs): Documentation Stuff
 - [itempress-bugs](http://wordpress.org/tags/itempress-bugs): Bugs
+- [itempress-testing](http://wordpress.org/tags/itempress-testing): ItemPress Testing
+- [itempress-wp](http://wordpress.org/tags/itempress-wp): WordPress Release Testing
 
 **Assignment Tags**
 
@@ -104,7 +106,7 @@ Tasks, etc are assigned to developers using the following model:
 
 `itempress-<wordpress.org username>` 
 
-If something has been assigned to you, please tag it (or it will be tagged) accordingly.
+If something has been assigned to you, it will be taged/untaged accordingly.
 
 **IRC**
 
