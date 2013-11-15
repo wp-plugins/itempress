@@ -85,9 +85,7 @@ Please see the [Other Notes](http://wordpress.org/plugins/itempress/other_notes/
 
 - Alpha product intended for dogfooding the product initially and gaining feedback. 1.0 will be a more stable version of the product.
 
-== Development & Support==
-
-**Development**
+== Development, Support, & Documentation==
 
 If you want to work on ItemPress, just:
 
@@ -107,8 +105,11 @@ Please use the [Support Tab](http://wordpress.org/support/plugin/itempress) to g
 
 **IRC**
 
-*#itempress* is our official channel on freenode. Join there to get help, discuss new features, or just say Hi. I am usually there 10am - 4pm MST-Arizona. Ping my username @aubreypwd to get my attention.
+**#itempress** is our official channel on freenode. Join there to get help, discuss new features, or just say Hi. I am usually there 10am - 4pm MST-Arizona. Ping my username @aubreypwd to get my attention.
 
+**Documentation**
+
+I am currently working on ItemPress's documentation on the [ItemPress Codex](http://codex.wordpress.org/index.php?title=User:Aubreypwd/itempress)
 
 == Credits & Thanks ==
 
@@ -127,7 +128,3 @@ Code from Sameer's plugin helped us make it so you can change the order or items
 **diddledan at #wordpress**
 
 Helped solve an issue to help make sure that archive pages sorted posts by menu_order.
-
-==Developing Additional Taxonomies==
-
-If you would like to add additional taxonomies to Items, you can learn to do so here: http://wordpress.org/support/topic/develop-additional-taxonomies-into-itempress
