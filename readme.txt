@@ -32,9 +32,11 @@ I want getting support and tracking development for ItemPress to be as easy as p
 - Report bugs
 - Contribute patches, etc
 - Suggest new ideas & features
-- Get general support
+- Get general support (try IRC first)
 
-The [Support Tab](http://wordpress.org/support/plugin/itempress) is the best way of getting in contact with me!
+The [Support Tab](http://wordpress.org/support/plugin/itempress) is the best way of getting in contact with me! 
+
+**#itempress** on IRC (freenode) is the next best option.
 
 **Development Board**
 
@@ -51,7 +53,7 @@ They are a way of assigning items to people, groups, etc without cluttering your
 Best way to install is using your WordPress Dashboard, just search for ItemPress! You can also download and put the extracted content in `/wp-content/plugins/itempress`.
 
 **Developers**
-
+¡
 Please see the [Other Notes](http://wordpress.org/plugins/itempress/other_notes/) section on how to get involved.
 
 == Screenshots ==
