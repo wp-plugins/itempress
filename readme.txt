@@ -16,6 +16,15 @@ ItemPress's custom post type stays out of the way of your blog posts and pages a
 
 This is currently a beta product and, if you are interested, you can help me out by installing and using the product, then visiting http://wordpress.org/support/plugin/itempress and giving feedback (Please use `itempress-feedback` tag)! You can also visit `#itempress` on IRC.
 
+**You could use ItemPress to:**
+
+- Take notes
+- Write and organize documentation
+- Store personal recipes without writing a blog post
+- Just make any kind of content that stays out of the way of your posts and pages!
+
+Post what you use ItemPress [here]()
+
 == Frequently Asked Questions ==
 
 **What Can I do with ItemPress**
