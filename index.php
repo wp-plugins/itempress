@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: ItemPress
- * Plugin URI: http://bitbucket.org/aubreypwd/itempress
+ * Plugin URI: http://wordpress.org/plugins/itempress/
  * Description: ItemPress is simply a robust custom post type designed to help you create content with the freedom of ambiguity. It has the power to organize lists, manage projects, or take notes all with the power of WordPress!
  * Version: 0.2.2
  * Author: Aubrey Portwood
