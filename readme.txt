@@ -85,7 +85,9 @@ Please see the [Other Notes](http://wordpress.org/plugins/itempress/other_notes/
 
 - Alpha product intended for dogfooding the product initially and gaining feedback. 1.0 will be a more stable version of the product.
 
-== Development ==
+== Development & Support==
+
+**Development**
 
 If you want to work on ItemPress, just:
 
@@ -97,29 +99,16 @@ If you want to work on ItemPress, just:
 
 ...activate, then start hacking! You can submit diff's using the [Support Tab](http://wordpress.org/support/plugin/itempress).
 
-All tracking of new features, discussion, bugs, etc are all done tagging items in the [Support Tab](http://wordpress.org/support/plugin/itempress).
+All development-related items that come in through the [Support Tab](http://wordpress.org/support/plugin/itempress) are pushed into a the [ItemPress Development Board on Trello](https://trello.com/b/OrTYa3Bp/itempress-development-board).
 
-When adding new items, please keep these tags in mind:
+**Support**
 
-**Development Tags**
-
-- [itempress-enhancements](http://wordpress.org/tags/itempress-enhancements): New Stuff
-- [itempress-docs](http://wordpress.org/tags/itempress-docs): Documentation Stuff
-- [itempress-bugs](http://wordpress.org/tags/itempress-bugs): Bugs
-- [itempress-testing](http://wordpress.org/tags/itempress-testing): ItemPress Testing
-- [itempress-wp](http://wordpress.org/tags/itempress-wp): WordPress Release Testing
-
-**Assignment Tags**
-
-Tasks, etc are assigned to developers using the following model:
-
-`itempress-<wordpress.org username>` 
-
-If something has been assigned to you, it will be tagged/untagged accordingly.
+Please use the [Support Tab](http://wordpress.org/support/plugin/itempress) to get help, suggest new features, etc.
 
 **IRC**
 
-`#itempress` is our official channel on freenode.
+`#itempress` is our official channel on freenode. Join there to get help, discuss new features, or just say Hi. I am usually there 10am - 4pm MST-Arizona. Ping my username @aubreypwd to get my attention.
+
 
 == Credits & Thanks ==
 
