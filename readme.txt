@@ -67,6 +67,10 @@ Please see the [Other Notes](http://wordpress.org/plugins/itempress/other_notes/
 
 == Changelog ==
 
+= 0.2.3 =
+
+- Updated plugin information for current users to get support
+
 = 0.2.2 =
 
 - Labels in drop-downs are not hierarchical
