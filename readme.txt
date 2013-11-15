@@ -14,7 +14,7 @@ ItemPress is a robust custom post type that will allow you to create new content
 
 ItemPress's custom post type stays out of the way of your blog posts and pages and allows you to create content of any kind, organized many different ways.
 
-This is currently a beta product and, if you are interested, you can help me out by installing and using the product, then visiting http://wordpress.org/support/plugin/itempress and giving feedback (Please use `itempress-feedback` tag)! You can also visit `#itempress` on IRC.
+This is currently a beta product and, if you are interested, you can help me out by installing and using the product, then visiting the [Support Tab](http://wordpress.org/support/plugin/itempress) and giving feedback (Please use `itempress-feedback` tag)! You can also visit `#itempress` on IRC.
 
 **You could use ItemPress to:**
 
@@ -25,37 +25,32 @@ This is currently a beta product and, if you are interested, you can help me out
 
 Post what you use ItemPress [here]()
 
+**Get Support and Get Involved**
+
+I want getting support and tracking development for ItemPress to be as easy as possible, so please use the [Support Tab](http://wordpress.org/support/plugin/itempress) to:
+
+- Report bugs
+- Contribute patches, etc
+- Suggest new ideas & features
+- Get general support
+
+The [Support Tab](http://wordpress.org/support/plugin/itempress) is the best way of getting in contact with me!
+
+**Development Board**
+
+Anything posted here automatically gets pushed to the <a href="https://trello.com/b/OrTYa3Bp/itempress-development-board">Development Board on Trello</a>. This is where I organize and put things into the queue. Although I will update any support posts, you can always go here for the freshest status on things.
+
 == Frequently Asked Questions ==
-
-**What Can I do with ItemPress**
-
-ItemPress lets you create as much content as you want. ItemPress items (essentially posts) stay out of the way of your blog posts and pages. You can also group content together using labels or by [developing new taxonomy groups](http://wordpress.org/support/topic/develop-additional-taxonomies-into-itempress).
-
-Here are a few things you can do with ItemPress:
-
-- Take and organize notes and notebooks
-- Track and organize a project
-- Stop using Pastebin!
-
-The possibilities are limitless! What will you make?
 
 **What are Associations?**
 
 They are a way of assigning items to people, groups, etc without cluttering your labels. All users are automatically set with an association that starts with an @. This means can group together items that could be assigned to @user, and they can find them easily.
-
-**What gave you the idea?**
-
-I've use a lot of things to create and organize content, like Trello, Evernote, and and P2, just to name a few. But my content is restricted to what the service offers (I can't extend it like in WordPress), I'm constantly encouraged to upgrade, and I have to usually setup a whole separate blog to use P2. 
-
-ItemPress allows you to create content without the need for upgrading, you can add any kind of content WordPress can give you (with plugins), not change your theme, and use your current WordPress site!
 
 == Installation ==
 
 Best way to install is using your WordPress Dashboard, just search for ItemPress! You can also download and put the extracted content in `/wp-content/plugins/itempress`.
 
 **Developers**
-
-If you want to work on ItemPress, just `svn co http://plugins.svn.wordpress.org/itempress itempress-svn` and `ln -s itempress-svn/trunk itempress`. 
 
 Please see the [Other Notes](http://wordpress.org/plugins/itempress/other_notes/) section on how to get involved.
 
