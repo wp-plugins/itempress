@@ -103,11 +103,11 @@ All development-related items that come in through the [Support Tab](http://word
 
 **Support**
 
-Please use the [Support Tab](http://wordpress.org/support/plugin/itempress) to get help, suggest new features, etc.
+Please use the [Support Tab](http://wordpress.org/support/plugin/itempress) to get help, suggest new features, etc or use IRC.
 
 **IRC**
 
-`#itempress` is our official channel on freenode. Join there to get help, discuss new features, or just say Hi. I am usually there 10am - 4pm MST-Arizona. Ping my username @aubreypwd to get my attention.
+*#itempress* is our official channel on freenode. Join there to get help, discuss new features, or just say Hi. I am usually there 10am - 4pm MST-Arizona. Ping my username @aubreypwd to get my attention.
 
 
 == Credits & Thanks ==
