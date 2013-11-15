@@ -115,7 +115,7 @@ Tasks, etc are assigned to developers using the following model:
 
 `itempress-<wordpress.org username>` 
 
-If something has been assigned to you, it will be taged/untaged accordingly.
+If something has been assigned to you, it will be tagged/untagged accordingly.
 
 **IRC**
 
