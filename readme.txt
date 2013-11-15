@@ -1,6 +1,6 @@
 === ItemPress ===
 Contributors: aubreypwd, diddledan
-Donate link: http://aubreypwd.com/donate/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=aubreypwd%40gmail%2ecom&lc=US&item_name=Aubrey%20Portwood&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest
 Tags: projects, project, management, notes, remembering, tasks, bugs, issue, tracker
 Requires at least: 3.7
 Tested up to: 3.7
