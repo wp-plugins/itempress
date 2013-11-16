@@ -123,3 +123,5 @@ Code from Sameer's plugin helped us make it so you can change the order or items
 **diddledan at #wordpress**
 
 Helped solve an issue to help make sure that archive pages sorted posts by menu_order.
+
+-
