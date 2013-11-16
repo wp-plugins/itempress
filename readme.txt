@@ -53,7 +53,7 @@ They are a way of assigning items to people, groups, etc without cluttering your
 Best way to install is using your WordPress Dashboard, just search for ItemPress! You can also download and put the extracted content in `/wp-content/plugins/itempress`.
 
 **Developers**
-¡
+
 Please see the [Other Notes](http://wordpress.org/plugins/itempress/other_notes/) section on how to get involved.
 
 == Screenshots ==
@@ -88,17 +88,11 @@ Please see the [Other Notes](http://wordpress.org/plugins/itempress/other_notes/
 
 == Development, Support, & Documentation==
 
-If you want to work on ItemPress, just:
+If you want to work on ItemPress, just visit the [ItemPress-develop repository on BitBucket](https://bitbucket.org/aubreypwd/itempress-develop), clone, and hack away!
 
-`cd wp-content/plugins`
+**Bugs** and **new features suggestions** are all initially filed on the WordPress.org [Support Tab](http://wordpress.org/support/plugin/itempress). They are then automatically pushed to the [ItemPress Development Board](ttps://trello.com/b/OrTYa3Bp/itempress-development-board) on Trello where things are organized.
 
-`svn co http://plugins.svn.wordpress.org/itempress itempress-svn` 
-
-`ln -s itempress-svn/trunk itempress`
-
-...activate, then start hacking! You can submit diff's using the [Support Tab](http://wordpress.org/support/plugin/itempress).
-
-All development-related items that come in through the [Support Tab](http://wordpress.org/support/plugin/itempress) are pushed into a the [ItemPress Development Board on Trello](https://trello.com/b/OrTYa3Bp/itempress-development-board).
+All development-related items that come in through the [Support Tab](http://wordpress.org/support/plugin/itempress) are pushed into a the [ItemPress Development Board on Trello](https://trello.com/b/OrTYa3Bp/itempress-development-board) where things are organized.
 
 **Support**
 
