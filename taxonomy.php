@@ -28,7 +28,8 @@ class itempress_tax
 			'args'=>array(
 				'label' =>'Labels',
 				'rewrite' => array(
-					'slug' => 'items-labeled' 
+					//'slug' => 'items-labeled',
+					'slug' => 'label' 
 				),
 				'capabilities' => array(
 					'assign_terms' => 'edit_posts',
@@ -59,7 +60,8 @@ class itempress_tax
 			'args'=>array(
 				'label' =>'Associations',
 				'rewrite' =>array(
-					'slug' => 'items-associated' 
+					//'slug' => 'items-associated',
+					'slug' => 'associated' 
 				),
 				'capabilities' =>array( 
 					'assign_terms' => 'edit_posts',

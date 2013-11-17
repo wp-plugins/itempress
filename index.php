@@ -47,12 +47,21 @@ function itempress_init(){
 	
 	items_tax_associated_users();
 	itempress_make_sortable();
+
+	itempress_flush_rewrite();
 }
 
 add_action('init','itempress_init');
 add_action('plugins_loaded','items_menu_order_if_my_tax');
 add_filter( 'the_content', 'items_content_add' );
 add_action( 'wp_before_admin_bar_render', 'items_wp_admin_bar' );
+
+
+
+function itempress_flush_rewrite(){
+	global $wp_rewrite;
+	$wp_rewrite->flush_rules();
+}
 
 function items_menu_order($query) {
 	global $itempress_tax;
