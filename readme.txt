@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=aubre
 Tags: projects, project, management, notes, remembering, tasks, bugs, issue, tracker
 Requires at least: 3.7
 Tested up to: 3.7
-Stable tag: 0.2.3
+Stable tag: 0.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -63,6 +63,11 @@ Please see the [Other Notes](http://wordpress.org/plugins/itempress/other_notes/
 3. Associations that sync with users
 
 == Changelog ==
+
+= 0.3 =
+
+- Permalink bases for items and taxonomy can now be updated using Settings > Permalinks
+- Changes to default slugs (items, labels, associated)
 
 = 0.2.3 =
 
