@@ -41,7 +41,7 @@ function register_cpt_item(){
         'query_var' => true,
         'can_export' => true,
         'rewrite' => array( 
-        	'slug' => 'item'
+        	'slug' => 'items'
         ),
         'capability_type' => 'post'
     );
