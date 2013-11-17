@@ -4,6 +4,10 @@ class itempress_tax
 {
 	public function register_tax(){
 		foreach($this->get_tax() as $tax){
+			if(get_option('itempress-base-'.$tax['taxonomy'])){
+				$tax['args']['rewrite']['slug'] = get_option('itempress-base-'.$tax['taxonomy']);
+			}
+
 			register_taxonomy(
 				$tax['taxonomy'],
 				'items',
@@ -28,7 +32,7 @@ class itempress_tax
 			'args'=>array(
 				'label' =>'Labels',
 				'rewrite' => array(
-					'slug' => 'items-labeled' 
+					'slug' => 'label'
 				),
 				'capabilities' => array(
 					'assign_terms' => 'edit_posts',
@@ -59,7 +63,7 @@ class itempress_tax
 			'args'=>array(
 				'label' =>'Associations',
 				'rewrite' =>array(
-					'slug' => 'items-associated' 
+					'slug' => 'associated' 
 				),
 				'capabilities' =>array( 
 					'assign_terms' => 'edit_posts',

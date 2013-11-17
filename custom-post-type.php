@@ -40,9 +40,15 @@ function register_cpt_item(){
         'has_archive' => true,
         'query_var' => true,
         'can_export' => true,
-        'rewrite' => true,
+        'rewrite' => array( 
+        	'slug' => 'item'
+        ),
         'capability_type' => 'post'
     );
+
+	if(get_option('itempress-base')){
+		$args['rewrite']['slug'] = get_option('itempress-base');
+	}
 
     register_post_type( 'items', $args );
 }
