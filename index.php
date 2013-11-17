@@ -32,6 +32,7 @@ include "custom-post-type.php";
 include "taxonomy.php";
 include "content-meta.php";
 include "sortables.php";
+include "itempress-settings.php";
 
 $itempress_tax = new itempress_tax();
 
