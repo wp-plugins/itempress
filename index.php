@@ -3,7 +3,7 @@
  * Plugin Name: ItemPress
  * Plugin URI: http://wordpress.org/plugins/itempress/
  * Description: ItemPress is simply a robust custom post type designed to help you create content with the freedom of ambiguity. It has the power to organize lists, manage projects, or take notes all with the power of WordPress!
- * Version: 0.3.1
+ * Version: 0.3.2
  * Author: Aubrey Portwood
  * Author URI: http://profiles.wordpress.org/aubreypwd/
  * License: GPL2
@@ -33,6 +33,7 @@ include "taxonomy.php";
 include "content-meta.php";
 include "sortables.php";
 include "itempress-settings.php";
+include "itempress-activation.php";
 
 $itempress_tax = new itempress_tax();
 
@@ -100,6 +101,5 @@ function items_wp_admin_bar() {
 function items_css() {
 	wp_enqueue_style( 'items_css', plugins_url('style.css', __FILE__));
 }
-
 
 ?>
