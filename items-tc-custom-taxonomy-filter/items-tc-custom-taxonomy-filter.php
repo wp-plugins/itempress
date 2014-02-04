@@ -39,7 +39,8 @@ function items_tc_ctf_restrict_manage_posts() {
                 'orderby'           => 'name',
                 'order'             => 'ASC',
                 'selected'          => $term_id,
-                'hierarchical'		=> 1
+                'hierarchical'		=> 1,
+                'hide_if_empty'     => true
             )
         );
     }
