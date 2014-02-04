@@ -23,24 +23,9 @@ This is currently a beta product and, if you are interested, you can help me out
 - Store personal recipes without writing a blog post
 - Just make any kind of content that stays out of the way of your posts and pages!
 
-Post what you use ItemPress [here]()
+**GitHub**
 
-**Get Support and Get Involved**
-
-I want getting support and tracking development for ItemPress to be as easy as possible, so please use the [Support Tab](http://wordpress.org/support/plugin/itempress) to:
-
-- Report bugs
-- Contribute patches, etc
-- Suggest new ideas & features
-- Get general support (try IRC first)
-
-The [Support Tab](http://wordpress.org/support/plugin/itempress) is the best way of getting in contact with me! 
-
-**#itempress** on IRC (freenode) is the next best option.
-
-**Development Board**
-
-Anything posted here automatically gets pushed to the <a href="https://trello.com/b/OrTYa3Bp/itempress-development-board">Development Board on Trello</a>. This is where I organize and put things into the queue. Although I will update any support posts, you can always go here for the freshest status on things.
+ItemPress is developed over at [GitHub](https://github.com/aubreypwd/itempress).
 
 == Frequently Asked Questions ==
 
@@ -98,26 +83,6 @@ Please see the [Other Notes](http://wordpress.org/plugins/itempress/other_notes/
 
 - Alpha product intended for dogfooding the product initially and gaining feedback. 1.0 will be a more stable version of the product.
 
-== Development, Support, & Documentation==
-
-If you want to work on ItemPress, just visit the [ItemPress-develop repository on BitBucket](https://bitbucket.org/aubreypwd/itempress-develop), clone, and hack away!
-
-**Bugs** and **new features suggestions** are all initially filed on the WordPress.org [Support Tab](http://wordpress.org/support/plugin/itempress). They are then automatically pushed to the [ItemPress Development Board](ttps://trello.com/b/OrTYa3Bp/itempress-development-board) on Trello where things are organized.
-
-All development-related items that come in through the [Support Tab](http://wordpress.org/support/plugin/itempress) are pushed into a the [ItemPress Development Board on Trello](https://trello.com/b/OrTYa3Bp/itempress-development-board) where things are organized.
-
-**Support**
-
-Please use the [Support Tab](http://wordpress.org/support/plugin/itempress) to get help, suggest new features, etc or use IRC.
-
-**IRC**
-
-**#itempress** is our official channel on freenode. Join there to get help, discuss new features, or just say Hi. I am usually there 10am - 4pm MST-Arizona. Ping my username @aubreypwd to get my attention.
-
-**Documentation**
-
-I am currently working on ItemPress's documentation on the [ItemPress Codex](http://codex.wordpress.org/index.php?title=User:Aubreypwd/itempress)
-
 == Credits & Thanks ==
 
 **Tracy Rotton, TatumCreative, MRW Web Design, TC Custom Taxonomy Filter**
@@ -135,5 +100,3 @@ Code from Sameer's plugin helped us make it so you can change the order or items
 **diddledan at #wordpress**
 
 Helped solve an issue to help make sure that archive pages sorted posts by menu_order.
-
--
