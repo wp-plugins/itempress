@@ -3,7 +3,7 @@ Contributors: aubreypwd, diddledan
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=aubreypwd%40gmail%2ecom&lc=US&item_name=Aubrey%20Portwood&no_note=0&currency_code=USD&bn=PP-DonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest
 Tags: projects, project, management, notes, remembering, tasks, bugs, issue, tracker
 Requires at least: 3.7
-Tested up to: 3.7
+Tested up to: 4.2
 Stable tag: 0.3.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -23,10 +23,6 @@ This is currently a beta product and, if you are interested, you can help me out
 - Store personal recipes without writing a blog post
 - Just make any kind of content that stays out of the way of your posts and pages!
 
-**GitHub**
-
-ItemPress is developed over at [GitHub](https://github.com/aubreypwd/itempress).
-
 == Frequently Asked Questions ==
 
 **What are Associations?**
@@ -36,10 +32,6 @@ They are a way of assigning items to people, groups, etc without cluttering your
 == Installation ==
 
 Best way to install is using your WordPress Dashboard, just search for ItemPress! You can also download and put the extracted content in `/wp-content/plugins/itempress`.
-
-**Developers**
-
-Please see the [Other Notes](http://wordpress.org/plugins/itempress/other_notes/) section on how to get involved.
 
 == Screenshots ==
 
@@ -86,6 +78,10 @@ Please see the [Other Notes](http://wordpress.org/plugins/itempress/other_notes/
 = 0.1 =
 
 - Alpha product intended for dogfooding the product initially and gaining feedback. 1.0 will be a more stable version of the product.
+
+== Development ==
+
+This plugin is developed at [Github](https://github.com/aubreypwd/itempress) and deployed here each release.
 
 == Credits & Thanks ==
 
